@@ -17,7 +17,7 @@ export function About() {
           &quot;WebMCP tools active&quot; badge.
         </li>
         <li>Or use ChatGPT&apos;s in-app browser when WebMCP tool discovery is available.</li>
-        <li>License: MIT (see repository LICENSE).</li>
+        <li>License: MIT — <a href="https://github.com/athifashaffy/investorpulse-lethbridge">github.com/athifashaffy/investorpulse-lethbridge</a>.</li>
       </ul>
       <p className="muted">Author: Athif Shaffy · Stack: Vite + React + TypeScript · No login required for public view.</p>
     </section>

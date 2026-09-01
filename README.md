@@ -70,6 +70,11 @@ src/
   App.tsx
 ```
 
+## Live demo
+
+- **HTTPS:** https://athifashaffy.github.io/investorpulse-lethbridge/
+- **Repo:** https://github.com/athifashaffy/investorpulse-lethbridge
+
 ## License
 
 MIT (c) 2026 Athif Shaffy
