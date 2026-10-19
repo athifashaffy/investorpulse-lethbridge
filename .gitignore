@@ -5,4 +5,3 @@ dist-ssr
 .DS_Store
 .vercel
 .netlify
-config.bat
